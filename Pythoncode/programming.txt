@@ -1,0 +1,29 @@
+Name : Horst ; Alter : 44
+Name : Klaus ; Alter : 16
+Name : Steffan ; Alter : 22
+Name : Anton ; Alter : 44
+Name : hgg ; Alter : hgf
+Name : ich ; Alter : 11
+Name : bernd ; Alter : 11
+Name : bärbel; Alter : 43
+Name : Horst ; Alter : 56
+Name : meier ; Alter : 12
+Name : Steffen ; Alter : 55
+Name : Fritz ; Alter : 45
+Name : Hotte ; Alter : 87
+
+Name : Anja ; Alter : 44
+Name : Jana ; Alter : 99
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name : Quendulin ; Alter : 12
+Name : Claudia ; Alter : 78
+Name : Basti ; Alter : 8
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name :  ; Alter : 
+Name : Gabi ; Alter : 44
